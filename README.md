@@ -4,7 +4,7 @@ This project visualizes the **Ford-Fulkerson algorithm** using [Manim](https://w
 The animation demonstrates step-by-step how the algorithm finds the maximum flow in a flow network.
 
 ## 🎥 Video
-[![Watch the video](https://youtu.be/yrL2SJI37b0)
+[![Watch the video](https://www.youtube.com/watch?v=yrL2SJI37b0)
 
 
 ## 📌 What It Does
