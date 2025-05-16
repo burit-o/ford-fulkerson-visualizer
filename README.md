@@ -6,7 +6,7 @@ The animation demonstrates step-by-step how the algorithm finds the maximum flow
 ## 🎥 Video
 Click the image below to watch the step-by-step animation of the Ford-Fulkerson Algorithm on YouTube.
 
-[![Watch the video](https://i.imgur.com/fMRlPC8.png)](https://www.youtube.com/watch?v=yrL2SJI37b0)
+[![Watch the video](https://i.imgur.com/fMRlPC8.png)](https://www.youtube.com/watch?v=YqLI0g5CMY4)
 
 
 
